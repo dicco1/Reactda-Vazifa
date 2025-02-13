@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+    
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  h1 {
+    cursor: pointer;
+    color: white;
+  }
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+}
+li {
+  margin-right: 20px;
+  color: rgb(255, 255, 255);
+}
+a {
+  text-decoration: none;
+  color: black;
+  color: white;
+}
+.but1 {
+  background-color: transparent;
+  color: #23a6f0;
+  padding: 8px 20px;
+  border-radius: 8px;
+  font-size: large;
+  font-weight: 700;
+  cursor: pointer;
+  border: none;
+}
+.but2 {
+  background-color: #23a6f0;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 5px;
+  font-size: large;
+
+  cursor: pointer;
+  border: none;
+}
+

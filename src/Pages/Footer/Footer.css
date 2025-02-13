@@ -1,0 +1,15 @@
+.salom{
+    color: red !important;
+    display: block;
+}
+.arrrr{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+}
+.bigA{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
